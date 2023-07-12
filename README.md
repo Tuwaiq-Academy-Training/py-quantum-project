@@ -20,6 +20,6 @@ Enter the name of student 3: Sara
 Enter the score of student 3: 78
 
 ### Output:
-Student: Omar, Score: 85, Grade: B+
-Student: Khalid, Score: 92, Grade: A
-Student: Sara, Score: 78, Grade: C+
+Student: Omar, Score: 85, Grade: B+   
+Student: Khalid, Score: 92, Grade: A   
+Student: Sara, Score: 78, Grade: C+   
